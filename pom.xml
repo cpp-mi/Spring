@@ -40,7 +40,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>5.2.6.RELEASE</version></dependency>
+      <version>5.2.20.RELEASE</version></dependency>
     <!-- 引⼊⽇志依赖 -->
     <dependency>
       <groupId>commons-logging</groupId>
